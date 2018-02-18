@@ -22,3 +22,10 @@ p {
   color: Gray;
   font-size: 21px;
 }
+footer {
+  color: Gray;
+  text-align: right;
+}
+#phone {
+  margin-top: 22px;
+}
